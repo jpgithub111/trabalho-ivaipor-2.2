@@ -1,0 +1,27 @@
+.body{
+    text-align: left;
+    color: white;
+    background-color: blue;
+}
+
+.titulo {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+}
+
+.subtitulo {
+    font-family: monospace;
+    text-align: center;
+}
+
+.fotocidade {
+    text-align: center;
+}
+footer{
+    width: auto;
+    height: auto;
+    background-color: orange;
+    margin: 20px;
+    padding: 20px;
+}
